@@ -2,9 +2,7 @@
 ![cinema logo](https://cdn.thespaces.com/wp-content/uploads/2018/07/delphiluxartboard_2q_.jpg)
 
 ### General info
-This project implements taxi service, which can be used to manage
-lists of drivers, cars and manufacturers. Project based 
-on 3-tier architecture (Presentation layer, Service layer, Data access layer)
+This project simulates cinema ticket shop with simple authentication system based on Hibernate and Spring 
 
 ### Application functionality
 ```
@@ -37,7 +35,7 @@ on 3-tier architecture (Presentation layer, Service layer, Data access layer)
 * Hibernate
 * Spring Web
 * Spring Security
-* Spring REST
+* Spring Core
 * MySQL
 * Maven checkstyle plugin
 
